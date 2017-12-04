@@ -6,4 +6,4 @@
 
 send_message(message, username)
 message: 消息内容
-username: 发送对象
+username: 发送对象  
